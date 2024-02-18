@@ -48,3 +48,4 @@ resultado3 =carrito.filter(function(producto){
     return producto.nombre !=='xbox'
 });
 console.log(resultado3);
+
