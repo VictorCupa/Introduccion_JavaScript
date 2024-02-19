@@ -1,0 +1,22 @@
+{
+    "empleados":[
+        {
+            "id": 1,
+            "nombre":"victor",
+            "apellido": "cupa",
+            "cargo":"dsarrollador web junior"
+        },
+        {
+            "id": 3,
+            "nombre":"alfonso",
+            "apellido": "cadena",
+            "cargo":"dsarrollador back junior"
+        },
+        {
+            "id": 4,
+            "nombre":"pepito",
+            "apellido": "perez",
+            "cargo":"dsarrollador web senior"
+        }
+    ]
+}
